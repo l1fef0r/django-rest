@@ -6,4 +6,3 @@ class AuthorsSerializer(ModelSerializer):
     class Meta:
         model = Authors
         fields = '__all__'
-
